@@ -1,0 +1,12 @@
+git clone https://github.com/Aalfin-luminar/sample.git
+
+git add github
+
+alternative : aws,bitbucket,gitlab
+
+git add .  >>>> add the file to the starting alternatives
+
+git commuit -m "message">>>> to commit the changes in the tracked file 
+
+git push origin main >>> pushing the file to main branch in github respository
+
